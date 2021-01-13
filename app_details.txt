@@ -1,0 +1,3 @@
+app name: str-udacity-worldbankapp
+app address: https://str-heroku-worldbank-webapp.herokuapp.com/
+git repo: https://git.heroku.com/str-heroku-worldbank-webapp.git 
